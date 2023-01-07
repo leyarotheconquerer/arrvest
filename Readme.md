@@ -1,43 +1,10 @@
-Theme: Harvest
+# Ludum Dare 52
 
-Ideas
-
-Go around harvesting plants that grow
-Bejeweled with plants
-Tower defense but you have to protect and then harvest plants
-Grow asteroids and then harvest them
-But don't let the aliens destroy them
-
-Genres:
-Tower defense
-Bejeweled - pattern matching
-Platformer
-
-Adventure (go around and collect things) - no specific idea
-Plant and harvest type
-
-Plant a city
-Grow things around it
-Grow it as large as it can get
-Before harvesting it
-
-Harvest astroids
-Harvest plants
-Harvest ships
-Harvest fish
-Harvest cities
-Harvest people
-Harvest zombies
-Harvest power
-Harvest junk
-
-Har Vest
-It's a vest
-Hard vest
-Arr... vest
-Pirate vest
+Theme: **Harvest**
 
 ## 'Arr-vest
+
+Concept:
 * Harvest the pirate gold
 * Go around in a ship
 * Picking up all the gold
@@ -54,52 +21,71 @@ Pirate vest
 * Ships
 * Pirates
 
+### Mechanics
 
-## Be-harvested
-* Different types of plants?
-* Different levels of plants?
-* Only plants of the same level may join
-* Plants grow the longer they're in the level
-* You get more points for taller plants harvested
-* They may grow too old and die off
-* Some plants kill other plants
+* Player can sail ship
+* Player can fire cannons
+* Projectiles damage ship
+* Player can pick up treasure
+* Enemies move around
+* Enemies attack player
+* Treasure spawns
+* Enemies spawn
 
-### Difficulties
-* Algorithm - how do you even recommend good moves?
-* How do you implement this?
-* In 3D? In Unreal?
-* How do you make it increasingly challenging but learnable
+* Player can deliver treasure?
+* Player can upgrade ship
+	- More health
+	- More guns
+	- More capacity?
+* Enemies have different health and guns
+* HUD shows
+	- Health
+	- Treasure
+	- Guns
+	- Enemies killed?
 
-### Coolness
-* Growing patterns? Cool
-* New game type
+### Assets
 
+* Player ship
+	- Guns
+	- Cannon balls
+	- Damage (3 levels?)
+	- Smoke?
+	- Water?
+* Treasure
+	- Sunken ship
+	- Treasure chest
+* Enemy ship
+	- Guns
+	- Cannon balls
+	- Damage (3 levels?)
+* Sounds
+	- Music
+	- Guns
+	- Explosions
 
-## Harvest Them 'Stroids
-* Asteroids flying everywhere
-* You have to break them up
-* Until you can harvest them
-* But watch out for blackholes/aliens
-* They'll steal the asteroids before you can get to them
+### Schedule
 
-## Harvest Defense
-* The bugs/birds are coming to steal your harvest
-* You have to plant crops
-* And harvest them to get more money
-* But watch out that the bugs/birds don't steal your crop
-* Harvest when the time is right
-* The longer you wait the more you'll get
-* But the longer you wait the more enemies will come
-* More expensive crops take longer to grow
-* But are worth more money
+#### Friday Evening
+* Concept
+* Movement?
 
-### Difficulties
-* What are the enemies
-* How do they work?
-* What are you planting
-* Difficulty scaling
-* Which target to attack
+#### Saturday Morning
+* Treasure
+* Shooting
+* Enemies
 
-### Coolness
-* Tower defense alternative
-* Growing things is cool
+#### Saturday Afternoon
+* AI
+* Upgrades
+
+#### Saturday Evening
+* Menus
+* Polish
+* Music/sounds
+
+#### Sunday Morning
+* Rest
+
+#### Sunday Afternoon
+* Ship
