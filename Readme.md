@@ -37,13 +37,25 @@ Hard vest
 Arr... vest
 Pirate vest
 
-'Arr-vest
+## 'Arr-vest
 * Harvest the pirate gold
 * Go around in a ship
 * Picking up all the gold
 * Fighting off all the other ships
 
-Be-harvested
+### Difficulties
+* Other ships
+* Water
+* Control scheme
+* Corny
+
+### Coolness
+* Relatively straight-forward mechanics
+* Ships
+* Pirates
+
+
+## Be-harvested
 * Different types of plants?
 * Different levels of plants?
 * Only plants of the same level may join
@@ -52,14 +64,25 @@ Be-harvested
 * They may grow too old and die off
 * Some plants kill other plants
 
-Harvest Them 'Stroids
+### Difficulties
+* Algorithm - how do you even recommend good moves?
+* How do you implement this?
+* In 3D? In Unreal?
+* How do you make it increasingly challenging but learnable
+
+### Coolness
+* Growing patterns? Cool
+* New game type
+
+
+## Harvest Them 'Stroids
 * Asteroids flying everywhere
 * You have to break them up
 * Until you can harvest them
 * But watch out for blackholes/aliens
 * They'll steal the asteroids before you can get to them
 
-Harvest Defense
+## Harvest Defense
 * The bugs/birds are coming to steal your harvest
 * You have to plant crops
 * And harvest them to get more money
@@ -69,3 +92,14 @@ Harvest Defense
 * But the longer you wait the more enemies will come
 * More expensive crops take longer to grow
 * But are worth more money
+
+### Difficulties
+* What are the enemies
+* How do they work?
+* What are you planting
+* Difficulty scaling
+* Which target to attack
+
+### Coolness
+* Tower defense alternative
+* Growing things is cool
