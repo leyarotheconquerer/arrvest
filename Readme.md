@@ -89,3 +89,9 @@ Concept:
 
 #### Sunday Afternoon
 * Ship
+
+### Attribution
+
+Font: Pokoljaro Regular
+Used under the FFC license:
+https://www.1001fonts.com/pokoljaro-font.html
