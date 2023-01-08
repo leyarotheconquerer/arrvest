@@ -88,6 +88,9 @@ Concept:
 * Rest
 
 #### Sunday Afternoon
+* Music/Sound
+* Tutorial
+* Animations/Decorations
 * Ship
 
 ### Attribution
@@ -95,3 +98,6 @@ Concept:
 Font: Pokoljaro Regular
 Used under the FFC license:
 https://www.1001fonts.com/pokoljaro-font.html
+
+Pick Up Treasure
+From Sunken Foes
